@@ -12,6 +12,4 @@ Elektroniczną Platformę Usług Administracji Publicznej
 
 Profil Zaufany
 
-| plik | kto | termin |
-|:-:|:-:|-:|
-|eUsluga_PZ.md|ja| 07 lipca|
+- [ ] |eUsluga_PZ.md|ja| 07 lipca|
